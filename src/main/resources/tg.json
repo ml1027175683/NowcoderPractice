@@ -1,0 +1,13 @@
+{
+  "Rot": "RATE OF TURN",
+  "Lat": "LATITUDE",
+  "Lon": "LONGITUDE",
+  "Hdt": "HEADING DEGREE",
+  "Stw": "SPEED THROUGH WATER",
+  "WaterDepth": "WATER DEPTH",
+  "RudderAngle": "RUDDER ANGLE",
+  "WindDiration": "WIND DIRECTION",
+  "WindSpeed": "WIND SPEED",
+  "timestamp": "timestamp",
+  "Sog": "SPEED OVER GROUND"
+}
