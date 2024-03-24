@@ -31,8 +31,8 @@ import java.util.Map;
 
 
 
-@Slf4j
-@Configuration
+//@Slf4j
+//@Configuration
 public class MqttConfig {
 
 	// 入站通道名（消费者）
